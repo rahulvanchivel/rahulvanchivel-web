@@ -11,16 +11,16 @@ mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: Jekyll Klisé # author name
+  name: Rahul Vanchivel N # author name
   bio: >- # tell to the world
     Hi I am Rahul Vanchivel, Student at Kongu Engineering College. Will update more info soon.
       podu maja tha <a href="https://github.com/rahulvanchivel" target="_blank" rel="noopener">@github</a>.
   username: username # general username
-  github: github_username # github username
-  twitter: twitter_username # twitter username
+  github: rahulvanchivel # github username
+  twitter: rahulvanchivel # twitter username
   facebook: facebook_username # facebook username
-  email: your-email@email.com # email adress
-  avatar: /assets/img/avatar.jpg # change with your own avatar
+  email: rahulvanchivel@gmail.com # email adress
+  avatar: /assets/img/rahul.jpg # change with your own avatar
 
 # URL settings
 url: "https://rahulvanchivel.in" #
